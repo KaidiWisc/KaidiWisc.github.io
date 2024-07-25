@@ -8,7 +8,8 @@ author_profile: true
 Satellite Precipitation error modeling
 ======
 Peng, K., Wright, D., et al., (2023). STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset. Water resources research, submitted
-![image](https://github.com/user-attachments/assets/87247dae-3174-482e-9075-8293e1d0c9e3)
+![image](https://github.com/user-attachments/assets/4d3abe45-c8db-42ed-8abb-e191b635c82b)
+
 
 
 Quantity Satellite Precipitation and Hydrologic Model Parameter Uncertainties to Advance Ensemble Streamflow Predictions
