@@ -5,7 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 ![image](https://github.com/user-attachments/assets/2d3cb9b0-4565-462b-aa91-953ea299cb72)
-![image](https://github.com/user-attachments/assets/e6fda9aa-a902-4980-b54a-48def24d3b1b)
+![image](https://github.com/user-attachments/assets/e846351f-f34e-417c-a239-d9180fa423c5)
+
 
 
 Satellite Precipitation error modeling
