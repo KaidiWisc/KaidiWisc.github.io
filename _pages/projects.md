@@ -4,6 +4,8 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+![image](https://github.com/user-attachments/assets/88681b62-00e5-420d-91a0-c128765ed41a)
+
 Satellite Precipitation error modeling
 ======
 Peng, K., Wright, D., et al., (2023). STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset. Water resources research, submitted
