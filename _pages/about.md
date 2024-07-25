@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD student from [Civil & Environmental Engineering](https://engineering.wisc.edu/departments/civil-environmental-engineering/), [University of Wisconsin–Madison](https://www.wisc.edu/). My research interest lies in satellite precipitation uncertainty quantification and associated effects in hydrologic predictions. I am looking for approaches to leverage satellite products and physical/statistic models to solve real-world problems, especially in gauge-limited areas. I am also interested in hydrologic modeling uncertainty, and trying to convert the uncertainty into decision-making information.
+
+I am a Future Investigator in NASA Earth and Space Science and Technology [FINESST](https://science.nasa.gov/earth-science/early-career-opportunities). I am advised by Prof. Daniel Wright of [HER Research Group](https://her.cee.wisc.edu/)
+You can find my CV here[]. 
+[Email](kaidi.peng@wisc.edu)
+[Github](https://github.com/KaidiWisc)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=JKfgQ3gAAAAJ)
 
 A data-driven personal website
 ======
