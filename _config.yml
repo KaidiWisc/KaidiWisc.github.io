@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kaidi Peng"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "bio"
   location         : "Collage of Engineering"
   employer         : "UW-Madison University"
@@ -34,9 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=JKfgQ3gAAAAJ"
   impactstory      : # URL
-  orcid            : 
-  semantic         : # URL
-  pubmed           : 
+  orcid            : "https://orcid.org/0000-0001-6159-009X"
   researchgate     : # URL
 
   # Repositories and software development
