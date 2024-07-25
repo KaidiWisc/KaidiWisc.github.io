@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-![image](https://github.com/user-attachments/assets/88681b62-00e5-420d-91a0-c128765ed41a)
+![image](https://github.com/user-attachments/assets/7d8e8cd8-3c5d-417d-9ab1-6f8b421b5803)
 
 Satellite Precipitation error modeling
 ======
