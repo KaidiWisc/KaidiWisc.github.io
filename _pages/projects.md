@@ -4,6 +4,13 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/assets/0fd0b2c9-c93b-4b8b-861c-8cc03d50e64e'>"
+collection: portfolio
+---
+
 ![image](https://github.com/user-attachments/assets/0fd0b2c9-c93b-4b8b-861c-8cc03d50e64e)
 
 Satellite Precipitation error modeling
