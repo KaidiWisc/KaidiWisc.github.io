@@ -8,57 +8,48 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download my CV](https://docs.google.com/document/d/1qmO_HtZp5HY9AUtcXic8B_frZ4py61jZ/edit?usp=sharing&ouid=113246705528556769200&rtpof=true&sd=true).
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Civil and Environmental Engineering， University of Wisconsin - Madison, 2027 (expected)
+* B.S. in Geomatics Engineering, Tongji University, 2022
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2022 - Present: Graduate Research Assistant
+  * UW Madison
+  * Satellite-based precipitation products uncertainty quantification and application
+  * Advisor: Prof. Daniel Wright
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021 - Summer 2022: Undergraduate Researcher
+  * Tongji University
+  * Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 MSI images
+  * Advisor: Prof. Huan Xie
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2019 - Summer 2021: Undergraduate Researcher
+  * Tongji University
+  * Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
+  * Advisor: Prof. Qunming Wang
 
-Publications
+Publications & Presentations
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* NASA FINESST Award (2024-2027)
+* AGU Horton Research Grant (2024)
+* Shanghai Outstanding Graduates (2022)
+* Tsang Hin-chi Scholarship, China (2018-2022)
+* Shanghai Scholarship (2020)
+* National Encouragement Scholarship, China (2019)
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Member, American Geophysical Union (AGU), Since 2023
+* Student member, AGU Precipitation Technical Committee of ECSPrecip sub-committee, Since 2024
+* Young Hydrologist Society (YHS) Conference Committee member, Since 2024
+
