@@ -1,6 +1,6 @@
 ---
-title: "Data Driving Hydrologic Modeling Uncertainty Quantification"
-excerpt: "Satellite precipitation, neural network weight, neural network structure and calibration target uncertainties are quantified to solve the over-confident issue in date-learning based ensemble streamflow prediction<br/><img src='/images/proj2.png' width='500px'>"
+title: "Data-Driving Hydrologic Modeling Uncertainty Quantification"
+excerpt: "Satellite precipitation, neural network weight, neural network structure and calibration target uncertainties are quantified to solve the over-confident issue in date-learning based ensemble streamflow prediction<br/><img src='/images/proj3.png' width='500px'>"
 collection: projects
 ---
 
