@@ -1,6 +1,6 @@
 ---
 title: "Satellite Precipitation error modeling"
-excerpt: "We created a A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset STREAM-Sat<br/><img src='/images/proj1.png' width='100px'>"
+excerpt: "We created a A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset STREAM-Sat<br/><img src='/images/proj1.png' width='500px'>"
 collection: projects
 ---
 
