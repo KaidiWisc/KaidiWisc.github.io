@@ -22,8 +22,3 @@ Before 2023
 * Peng, K., Wang, Q., Tang, Y., Tong, X., & Atkinson, P. M. (2022). Geographically Weighted Spatial Unmixing for Spatiotemporal Fusion. IEEE Transactions on Geoscience and Remote Sensing, 60, 1-17. doi:10.1109/TGRS.2021.3115136
 * Wang, Q., Peng, K., Tang, Y., Tong, X., & Atkinson, P. M. (2021). Blocks-removed spatial unmixing for downscaling MODIS images. Remote Sensing of Environment, 256, 112325. doi: https://doi.org/10.1016/j.rse.2021.112325
 
-{% include base_path %}
-
-{% for post in site.publications %}
-  {% include archive-single.html %}
-{% endfor %}
