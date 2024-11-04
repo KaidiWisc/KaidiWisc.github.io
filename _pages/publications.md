@@ -25,7 +25,6 @@ Before 2023
 
 <div class="row">
     <div class="col-12 col-lg-10">
-       
         <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
         
 * Peng, K., Wright, D., et al., (2024). STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset. Water resources research
