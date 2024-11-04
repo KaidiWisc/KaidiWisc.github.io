@@ -25,13 +25,10 @@ Before 2023
 
 <div class="row">
     <div class="col-12 col-lg-10">
-        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
-        
-* Peng, K., Wright, D., et al., (2024). STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset. Water resources research
+        <div class="my-0 p-0 bg-white shadow-sm rounded-sm">* Peng, K., Wright, D., et al., (2024). STREAM-Sat: A Novel Near-Realtime Quasi-global Satellite-Only Ensemble Precipitation Dataset. Water resources research
 * Peng, K., Wright, D., & Derin, Y., Alexander, A., Pradhan, A., Hartke S., Li, Z., Tan, J., Quantifying Satellite Precipitation and Hydrologic Model Parameter Uncertainties to Advance Large-Scale Flood Prediction Systems, WaterSciCon24, 2024
 * Peng, K., Wright, D., & Derin, Y., Hartke S., Li, Z., Tan, J., and Alexander, A., Advancing Hydrologic Prediction and Decision-making in Ungauged Regions Through Satellite Precipitation Uncertainty Estimation, 2023 AGU Annual Fall Meeting, 2023
-* Wright, D., Peng, K., & Tan J., Global Multiscale Uncertainty Estimation for Satellite Precipitation Products to Improve Hydrologic Prediction., 2023 NASA Precipitation Measurement Mission Science Team Meeting, 2023
-        </div>
+* Wright, D., Peng, K., & Tan J., Global Multiscale Uncertainty Estimation for Satellite Precipitation Products to Improve Hydrologic Prediction., 2023 NASA Precipitation Measurement Mission Science Team Meeting, 2023.</div>
     </div>
 </div>
 
