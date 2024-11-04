@@ -8,11 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV](https://docs.google.com/document/d/1qmO_HtZp5HY9AUtcXic8B_frZ4py61jZ/edit?usp=sharing&ouid=113246705528556769200&rtpof=true&sd=true).
+[Download my CV](https://docs.google.com/document/d/1qmO_HtZp5HY9AUtcXic8B_frZ4py61jZ/edit?usp=sharing&ouid=113246705528556769200&rtpof=true&sd=true)
+
+<img src='/images/phd.me1.png' width='300px'>
 
 Education
 ======
-* Ph.D in Civil and Environmental Engineering， University of Wisconsin - Madison, 2027 (expected)
+* Ph.D in Civil and Environmental Engineering, University of Wisconsin - Madison, 2027 (expected)
 * B.S. in Geomatics Engineering, Tongji University, 2022
 
 Research experience
@@ -31,6 +33,8 @@ Research experience
   * Tongji University
   * Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
   * Advisor: Prof. Qunming Wang
+
+<img src='/images/phd.me.2.png' width='300px'>
 
 Publications & Presentations
 ======
@@ -53,3 +57,4 @@ Service and leadership
 * Student member, AGU Precipitation Technical Committee of ECSPrecip sub-committee, Since 2024
 * Young Hydrologist Society (YHS) Conference Committee member, Since 2024
 
+<img src='/images/phd.m34.png' width='300px'>
