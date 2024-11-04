@@ -19,3 +19,5 @@ You can find my code and publication on
 Contact me: kaidi.peng@wisc.edu
 
 <img src='/images/conf.me.1.png' width='300px'>
+
+<img src='/images/NASA.png' width='100px'><img src='/images/ECR.png' width='100px'><img src='/images/GPM.png' width='100px'><img src='/images/CHTC.png' width='100px'>
