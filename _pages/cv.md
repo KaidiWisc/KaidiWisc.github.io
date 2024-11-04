@@ -21,18 +21,19 @@ Research experience
 ======
 * Fall 2022 - Present: Graduate Research Assistant
   * UW Madison
-  * Satellite-based precipitation products uncertainty quantification and application
   * Advisor: Prof. Daniel Wright
+  * Satellite-based precipitation products uncertainty quantification and application
+
 
 * Spring 2021 - Summer 2022: Undergraduate Researcher
   * Tongji University
-  * Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 MSI images
   * Advisor: Prof. Huan Xie
+  * Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 MSI images
 
 * Fall 2019 - Summer 2021: Undergraduate Researcher
   * Tongji University
-  * Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
   * Advisor: Prof. Qunming Wang
+  * Reconstruction of remote sensing images with fine spatiotemporal resolution for landcover & land change monitoring
 
 <img src='/images/phd.me.2.png' width='300px'>
 
