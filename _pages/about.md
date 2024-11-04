@@ -17,3 +17,5 @@ You can find my code and publication on
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=JKfgQ3gAAAAJ)/
 [my CV](https://docs.google.com/document/d/1qmO_HtZp5HY9AUtcXic8B_frZ4py61jZ/edit?usp=sharing&ouid=113246705528556769200&rtpof=true&sd=true).
 Contact me: kaidi.peng@wisc.edu
+
+<img src='/images/conf.me.1.png' width='300px'>
