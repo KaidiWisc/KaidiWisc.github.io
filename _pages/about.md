@@ -17,3 +17,7 @@ Contact me: kaidi.peng@wisc.edu
 <img src='/images/conf.me.1.png' width='300px'>
 
 <img src='/images/nasa.png' width='100px'>  <img src='/images/ECR.png' width='100px'>  <img src='/images/GPM.png' width='100px'>  <img src='/images/CHTC.png' width='100px'>
+
+I think, therefore I am --René Descartes
+天何所沓？十二焉分？ 日月安属？列星安陈？
+(How many ripples run across the heavens, and are there really twelve signs of the zodiac;How is the moon linked to the sun, and how are the stars arrayed) -- 屈原(Qu,Yuan)
